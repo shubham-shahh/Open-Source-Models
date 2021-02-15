@@ -26,5 +26,12 @@ This section consists of link to models that has License plate or number plate a
 
 1. License plate detector
    * **Model Architecture -** YOLOv4 
-   * 
+   * **Dataset-** [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F01jfm_)
+   * **Number of training examples -** 1500
+   * **Accuracy Metric -** (mAP@0.50) = 88.57%
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://github.com/theAIGuysCode/yolov4-custom-functions)
+   * **Author Remarks -** NA
+
+
 
