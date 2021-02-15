@@ -33,5 +33,51 @@ This section consists of link to models that has License plate or number plate a
    * **Link to the model and supporting files -** [Model](https://github.com/theAIGuysCode/yolov4-custom-functions)
    * **Author Remarks -** NA
 
+2. License plate detector + Character detection
+   * **Model Architecture -** YOLO 
+   * **Dataset-** [Dataset](https://github.com/TheophileBuy/LicensePlateRecognition)
+   * **Number of training examples -** 1900
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://github.com/TheophileBuy/LicensePlateRecognition)
+   * **Author Remarks -** NA
+
+3. License plate detector along with type of the vehicle
+   * **Model Architecture -** YOLOv3-tiny
+   * **Dataset-** NA
+   * **Number of training examples -** 1700+
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** 10
+   * **Link to the model and supporting files -** [Model](https://github.com/SumanSudhir/Vehicle-and-Its-License-Plate-detection)
+   * **Author Remarks -** NA
+
+4. License plate detector
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** NA
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** (mAP@0.50) = NA
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector)
+   * **Author Remarks -** NA
+
+5. License plate detector
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** [Dataset avaliable for academic use only](https://github.com/alitourani/yolo-license-plate-detection)
+   * **Number of training examples -** 3000+
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://github.com/alitourani/yolo-license-plate-detection)
+   * **Author Remarks -** NA
+
+
+
+
+
+
+
+
+
+
+
 
 
