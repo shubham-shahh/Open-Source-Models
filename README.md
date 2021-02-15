@@ -22,7 +22,7 @@ If you cannot train a model for some reason, you can put up a request in the [is
 ## Models Archive
 
 ### License plate detector
-This section consists of link to models that has License plate or number plate as one of their classes.
+This section consists of link to models that has **License plate** or **number plate** as one of their classes.
 
 1. License plate detector
    * **Model Architecture -** YOLOv4 
@@ -67,6 +67,55 @@ This section consists of link to models that has License plate or number plate a
    * **Accuracy Metric -** NA
    * **Number of classe(s) -** 1
    * **Link to the model and supporting files -** [Model](https://github.com/alitourani/yolo-license-plate-detection)
+   * **Author Remarks -** NA
+
+
+### Fire detector
+This section consists of link to models that has **fire** as one of their classes.
+
+1. Fire detector
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** Open Images Dataset
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://github.com/snehitvaddi/YOLOv3-Cloud-Based-Fire-Detection)
+   * **Author Remarks -** NA
+
+2. Fire and fire arms detector
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** NA
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** [details in paper](https://github.com/atulyakumar97/fire-and-gun-detection/blob/master/ICESC2020_Published%20Paper.pdf)
+   * **Number of classe(s) -** 2
+   * **Link to the model and supporting files -** [Model](https://github.com/atulyakumar97/fire-and-gun-detection)
+   * **Author Remarks -** NA
+
+3. Fire detector
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** [FireNet](https://github.com/OlafenwaMoses/FireNET)
+   * **Number of training examples -** 502 spilt into 2 parts, 412 for training 90 for validation
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/OlafenwaMoses/FireNET)
+   * **Author Remarks -** NA
+
+4. Fire and smoke detector
+   * **Model Architecture -** YOLOv4 
+   * **Dataset-** NA
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/gengyanlei/fire-detect-yolov4/blob/master/README_EN.md)
+   * **Author Remarks -** NA
+
+5. Fire detector
+   * **Model Architecture -** InceptionV4-OnFire 
+   * **Dataset-** [Durham Collections - Dunnings/Breckon, 2018](https://github.com/tobybreckon/fire-detection-cnn)
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/tobybreckon/fire-detection-cnn)
    * **Author Remarks -** NA
 
 
