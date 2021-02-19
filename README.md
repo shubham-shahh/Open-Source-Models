@@ -119,6 +119,55 @@ This section consists of link to models that has **fire** as one of their classe
    * **Author Remarks -** NA
 
 
+### Face detector
+This section consists of link to models that has **face** as one of their classes.
+
+1. YOLO Face
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** [WIDER FACE: A Face Detection Benchmark](https://github.com/sthanhng/yoloface)
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/sthanhng/yoloface)
+   * **Author Remarks -** NA
+
+2. YOLO Face Keras
+   * **Model Architecture -** YOLOv3 
+   * **Dataset-** [WIDER FACE: A Face Detection Benchmark](https://github.com/swdev1202/keras-yolo3-facedetection)
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/swdev1202/keras-yolo3-facedetection)
+   * **Author Remarks -** NA 
+
+3. Face detector
+   * **Model Architecture -** YOLOv2-tiny 
+   * **Dataset-** [WIDER FACE: A Face Detection Benchmark](https://github.com/zlmo/Face-Detection)
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/zlmo/Face-Detection)
+   * **Author Remarks -** NA 
+
+4. Face detector
+   * **Model Architecture -** YOLOv2 
+   * **Dataset-** FDDB+Dlib
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/azmathmoosa/azFace)
+   * **Author Remarks -** NA 
+
+5. Ultra light face detector
+   * **Model Architecture -** NA 
+   * **Dataset-** WIDER FACE: A Face Detection Benchmark
+   * **Number of training examples -** NA
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+   * **Author Remarks -** NA 
+
+
 
 
 
