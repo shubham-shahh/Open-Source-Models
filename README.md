@@ -12,6 +12,8 @@ This project cannot work without YOUR help. Everyone is encouraged to contribute
 
 * You can also contribute to this project even if you haven't trained a model yet by testing the models already listed here and test it for performance, accuracy and report if the link is broken or the the file does not exist on the mentioned link.
 
+* If you are adding links from someone else's page you came across, please do not add direct links to the files(eg. google drive or dropbox) as they could be changed by the author.
+
 
 ## Can't find the model here?
 Incase, you aren't able to find a model in here that fits your requirement and planning to train your own model, You can checkout the Google [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html). Here you can find annotated images that can be downloaded as per your convinience with [OIDv4_ToolKit](https://github.com/EscVM/OIDv4_ToolKit) and use this [fork](https://github.com/theAIGuysCode/OIDv4_ToolKit) in case you want the annotations that can be used to train a [YOLO](https://github.com/AlexeyAB/darknet) model.
@@ -159,13 +161,53 @@ This section consists of link to models that has **face** as one of their classe
    * **Author Remarks -** NA 
 
 5. Ultra light face detector
-   * **Model Architecture -** NA 
+   * **Model Architecture -** Multiple models 
    * **Dataset-** WIDER FACE: A Face Detection Benchmark
    * **Number of training examples -** NA
    * **Accuracy Metric -** NA
    * **Number of classe(s) -** NA
    * **Link to the model and supporting files -** [Model](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
    * **Author Remarks -** NA 
+
+
+### Face Mask detector
+This section consists of link to models that has **face mask** as one of their classes.
+
+1. Mask detector
+   * **Model Architecture -** YOLOv3-tiny-prn
+   * **Dataset-** [Dataset](https://github.com/cansik/yolo-mask-detection)
+   * **Number of training examples -** 678
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/cansik/yolo-mask-detection)
+   * **Author Remarks -** NA
+
+2. Mask detector
+   * **Model Architecture -** YOLOv2, YOLOv3, YOLOv4
+   * **Dataset-** [Dataset](https://github.com/adityap27/face-mask-detector)
+   * **Number of training examples -** 920
+   * **Accuracy Metric -** [Performance and accuracy](https://github.com/adityap27/face-mask-detector)
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/adityap27/face-mask-detector)
+   * **Author Remarks -** NA
+
+3. Mask detector
+   * **Model Architecture -** YOLOv3
+   * **Dataset-** [Dataset](https://github.com/VictorLin000/YOLOv3_mask_detect)
+   * **Number of training examples -** 678
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/VictorLin000/YOLOv3_mask_detect)
+   * **Author Remarks -** NA
+
+3. Mask detector
+   * **Model Architecture -** YOLOv3
+   * **Dataset-** NA
+   * **Number of training examples -** 678
+   * **Accuracy Metric -** NA
+   * **Number of classe(s) -** NA
+   * **Link to the model and supporting files -** [Model](https://github.com/rushad7/mask-detection)
+   * **Author Remarks -** NA
 
 
 
