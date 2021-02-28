@@ -23,6 +23,9 @@ If you cannot train a model for some reason, you can put up a request in the [is
 
 ## Models Archive
 
+### Table of contents
+* [License Plate Detector] (#License-plate-detector)
+
 ### License plate detector
 This section consists of link to models that has **License plate** or **number plate** as one of their classes.
 
