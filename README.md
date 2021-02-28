@@ -26,6 +26,9 @@ If you cannot train a model for some reason, you can put up a request in the [is
 
 ### Table of contents
 * [License Plate Detector](#License-plate-detector)
+* [Fire Detector](#Fire-Detector)
+* [Face Detector](#Face-Detector)
+* [Face Mask Detector](#Face-mask-detector)
 
 ### License plate detector
 This section consists of link to models that has **License plate** or **number plate** as one of their classes.
