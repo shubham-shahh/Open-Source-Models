@@ -29,6 +29,7 @@ If you cannot train a model for some reason, you can put up a request in the [is
 * [Fire Detector](#Fire-Detector)
 * [Face Detector](#Face-Detector)
 * [Face Mask Detector](#Face-mask-detector)
+* [Drone Detection](#Drone-Detection)
 
 ### License plate detector
 This section consists of link to models that has **License plate** or **number plate** as one of their classes.
@@ -217,7 +218,16 @@ This section consists of link to models that has **face mask** as one of their c
    * **Author Remarks -** NA
 
 
-
+### Drone Detection
+This section consists of link to models that has **Drone** as one of their classes.
+1. D-Drone v2
+   * **Model Architectures -** YOLOv4, YOLOv5 and DETR
+   * **Dataset-** [Custom Dataset](https://github.com/5a7man/D-Drone_v2)
+   * **Number of training examples -** 2000
+   * **Accuracy Metric -** mAP, avg IOU
+   * **Number of classe(s) -** 1
+   * **Link to the model and supporting files -** [Model](https://github.com/5a7man/D-Drone_v2)
+   * **Author Remarks -** Results can be used for benchmarking purposes.
 
 
 
