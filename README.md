@@ -65,7 +65,7 @@ This section consists of link to models that has **License plate** or **number p
    * **Model Architecture -** YOLOv3 
    * **Dataset-** NA
    * **Number of training examples -** NA
-   * **Accuracy Metric -** (mAP@0.50) = NA
+   * **Accuracy Metric -** NA
    * **Number of classe(s) -** 1
    * **Link to the model and supporting files -** [Model](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector)
    * **Author Remarks -** NA
