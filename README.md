@@ -3,6 +3,8 @@ Open Source Models is a archive for all the open source computer vision models. 
 
 This archive consists of models with different architecture, accuracy, and framework in the same category as different use cases demand different types of model to achieve similar goals.
 
+![](https://github.com/shubham-shahh/Open-Source-Models/blob/master/object_detection.gif)
+
 ## Contribution
 This project cannot work without YOUR help. Everyone is encouraged to contribute to this project by listing the models they ha
 ve trained after spending endless time and efforts to train them, so that everyone in the community is aware about its existance and can use them for their purpose.
